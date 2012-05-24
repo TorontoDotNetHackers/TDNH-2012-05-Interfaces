@@ -1,0 +1,9 @@
+D:\Documents\Stuff\.NET Programming\PipelineFun\PipelineFun\bin\Debug\PipelineFun.exe
+D:\Documents\Stuff\.NET Programming\PipelineFun\PipelineFun\bin\Debug\PipelineFun.pdb
+D:\Documents\Stuff\.NET Programming\PipelineFun\PipelineFun\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Stuff\.NET Programming\PipelineFun\PipelineFun\obj\x86\Debug\PipelineFun.frmMain.resources
+D:\Documents\Stuff\.NET Programming\PipelineFun\PipelineFun\obj\x86\Debug\PipelineFun.Properties.Resources.resources
+D:\Documents\Stuff\.NET Programming\PipelineFun\PipelineFun\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Stuff\.NET Programming\PipelineFun\PipelineFun\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Stuff\.NET Programming\PipelineFun\PipelineFun\obj\x86\Debug\PipelineFun.exe
+D:\Documents\Stuff\.NET Programming\PipelineFun\PipelineFun\obj\x86\Debug\PipelineFun.pdb
