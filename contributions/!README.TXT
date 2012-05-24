@@ -8,6 +8,8 @@ TDNH_IInformation.dll
 ----------
 Implementations provided by group members are:
 
+(DROP THESE IN THE BIN/ FOLDER OF THE PROJECT)
+
 Hackers_Interfaces_Viktoriya.dll
 - XML location data acquisition via web service and parsing points implementation
 
